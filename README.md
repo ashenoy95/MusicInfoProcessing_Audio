@@ -12,3 +12,5 @@ Requires tuneR package
 * __filter.r__: A filter that that passes only frequencies between 1000 and 3000 Hz.
 
 * __pitch_vibrato.r__: Creates a sine tone with pitch vibrato.
+
+* __karplus-strong.r__: A simple implementation of the Kaplus-Strong string synthesis 
