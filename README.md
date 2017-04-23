@@ -7,6 +7,8 @@ Requires tuneR package
 
 * __amplitude_vibrato.r__: Creates a sine tone with "amplitude vibrato".
 
+* __compress.r__: Creates a compressed version of the audio.
+
 * __echo.r__: Produces an echo using an AR filter.
 
 * __filter.r__: A filter that that passes only frequencies between 1000 and 3000 Hz.
