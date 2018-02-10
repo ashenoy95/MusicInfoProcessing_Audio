@@ -1,4 +1,4 @@
-# Music Information Processing: Audio
+# Music Information Processing
 
 Requires tuneR package.
 
