@@ -2,7 +2,7 @@
 
 Requires tuneR package.
 
-* __amazing_grace.r__: Creates the first 10 notes of Amazing Grace in the key of C with the correct ryhthm. A bagpipe feel is simulated by adding a low "drone" and grace notes having a reedy tone color.
+* __amazing_grace.r__: Creates the first 10 notes of Amazing Grace in the key of C with the correct ryhthm. A bagpipe feel is simulated by adding a low "drone" and grace notes.
 
 * __amplitude_vibrato.r__: Creates a sine tone with "amplitude vibrato".
 
